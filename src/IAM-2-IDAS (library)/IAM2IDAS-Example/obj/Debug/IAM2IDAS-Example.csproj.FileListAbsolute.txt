@@ -1,0 +1,12 @@
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\IAM2IDAS-Example\bin\Debug\TranslatorTest.exe.config
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\IAM2IDAS-Example\obj\Debug\TranslatorTest.exe
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\IAM2IDAS-Example\obj\Debug\TranslatorTest.pdb
+E:\VisualStudio2013_ws\Projects\IAM2IDAS\IAM2IDAS-Example\bin\Debug\test\sensorRegistration.xml
+E:\VisualStudio2013_ws\Projects\IAM2IDAS\IAM2IDAS-Example\bin\Debug\TranslatorTest.exe.config
+E:\VisualStudio2013_ws\Projects\IAM2IDAS\IAM2IDAS-Example\bin\Debug\TranslatorTest.exe
+E:\VisualStudio2013_ws\Projects\IAM2IDAS\IAM2IDAS-Example\bin\Debug\TranslatorTest.pdb
+E:\VisualStudio2013_ws\Projects\IAM2IDAS\IAM2IDAS-Example\bin\Debug\IAM2IDAS.dll
+E:\VisualStudio2013_ws\Projects\IAM2IDAS\IAM2IDAS-Example\bin\Debug\IAM2IDAS.pdb
+E:\VisualStudio2013_ws\Projects\IAM2IDAS\IAM2IDAS-Example\obj\Debug\IAM2IDAS-Example.csprojResolveAssemblyReference.cache
+E:\VisualStudio2013_ws\Projects\IAM2IDAS\IAM2IDAS-Example\obj\Debug\TranslatorTest.exe
+E:\VisualStudio2013_ws\Projects\IAM2IDAS\IAM2IDAS-Example\obj\Debug\TranslatorTest.pdb

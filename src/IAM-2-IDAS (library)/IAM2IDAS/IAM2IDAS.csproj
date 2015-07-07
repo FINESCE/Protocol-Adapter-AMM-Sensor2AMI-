@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D82A6BEF-EAC8-4D1F-9ACE-59DB3EF581C2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IAM2IDAS</RootNamespace>
+    <AssemblyName>IAM2IDAS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IDASClient.cs" />
+    <Compile Include="Utf8StringWriter.cs" />
+    <Compile Include="observations\FeatureOfInterest.cs" />
+    <Compile Include="observations\Parameter.cs" />
+    <Compile Include="observations\PhenomenonTime.cs" />
+    <Compile Include="SML\Classifier.cs" />
+    <Compile Include="SML\ClassifierList.cs" />
+    <Compile Include="SML\DataRecord.cs" />
+    <Compile Include="SML\Field.cs" />
+    <Compile Include="SML\IdentificationList.cs" />
+    <Compile Include="SML\Identifier.cs" />
+    <Compile Include="SML\SMLValue.cs" />
+    <Compile Include="SML\Term.cs" />
+    <Compile Include="SML\Text.cs" />
+    <Compile Include="SOS\InsertObservation.cs" />
+    <Compile Include="observations\BeginPosition.cs" />
+    <Compile Include="observations\EndPosition.cs" />
+    <Compile Include="observations\Observation.cs" />
+    <Compile Include="observations\Procedure.cs" />
+    <Compile Include="observations\SamplingTime.cs" />
+    <Compile Include="observations\TimePeriod.cs" />
+    <Compile Include="SOS\ObservationTemplate.cs" />
+    <Compile Include="SOS\RegisterSensor.cs" />
+    <Compile Include="SOS\SensorDescription.cs" />
+    <Compile Include="SML\Member.cs" />
+    <Compile Include="SML\SensorML.cs" />
+    <Compile Include="SML\Capabilities.cs" />
+    <Compile Include="SML\Classification.cs" />
+    <Compile Include="SML\Identification.cs" />
+    <Compile Include="SML\Input.cs" />
+    <Compile Include="SML\InputList.cs" />
+    <Compile Include="SML\Inputs.cs" />
+    <Compile Include="system\ObservableProperty.cs" />
+    <Compile Include="observations\ObservedProperty.cs" />
+    <Compile Include="SML\Output.cs" />
+    <Compile Include="SML\OutputList.cs" />
+    <Compile Include="SML\Outputs.cs" />
+    <Compile Include="SML\Position.cs" />
+    <Compile Include="system\Quantity.cs" />
+    <Compile Include="observations\Result.cs" />
+    <Compile Include="system\Description.cs" />
+    <Compile Include="SML\System.cs" />
+    <Compile Include="system\Value.cs" />
+    <Compile Include="test\TestParsing.cs" />
+    <Compile Include="observations\TimeInstant.cs" />
+    <Compile Include="observations\TimePosition.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="system\Uom.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="test\sensorRegistration.xml">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

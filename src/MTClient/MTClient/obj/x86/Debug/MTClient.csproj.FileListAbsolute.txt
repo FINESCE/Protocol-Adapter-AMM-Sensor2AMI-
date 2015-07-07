@@ -1,0 +1,9 @@
+c:\documents and settings\d017169\documenti\visual studio 2010\Projects\MTClient\MTClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\d017169\documenti\visual studio 2010\Projects\MTClient\MTClient\obj\x86\Debug\MTClient.Form1.resources
+c:\documents and settings\d017169\documenti\visual studio 2010\Projects\MTClient\MTClient\obj\x86\Debug\MTClient.Properties.Resources.resources
+c:\documents and settings\d017169\documenti\visual studio 2010\Projects\MTClient\MTClient\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\d017169\documenti\visual studio 2010\Projects\MTClient\MTClient\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\d017169\documenti\visual studio 2010\Projects\MTClient\MTClient\bin\Debug\MTClient.exe
+c:\documents and settings\d017169\documenti\visual studio 2010\Projects\MTClient\MTClient\bin\Debug\MTClient.pdb
+c:\documents and settings\d017169\documenti\visual studio 2010\Projects\MTClient\MTClient\obj\x86\Debug\MTClient.exe
+c:\documents and settings\d017169\documenti\visual studio 2010\Projects\MTClient\MTClient\obj\x86\Debug\MTClient.pdb

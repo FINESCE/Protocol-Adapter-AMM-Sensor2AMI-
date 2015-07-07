@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDLMSSite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DLMSSite>
+    <Name>Sample Site 1 Replace Host Addres 4.3.2.1 with the real one</Name>
+    <Description />
+    <Device Type="ZXF" Protocol="DLMS" Manufacturer="LGZ">
+      <Host>4.3.2.1</Host>
+      <Port>4059</Port>
+      <Authentication>
+        <type>None</type>
+        <password />
+      </Authentication>
+    </Device>
+    <ArrayOfOBIS>
+      <DataObjects>
+        <ActivePower>1.0.16.7.0.255</ActivePower>
+      </DataObjects>
+      <GenericProfileObjects>
+        <LoadProfile>1.0.99.1.0.255</LoadProfile>
+      </GenericProfileObjects>
+    </ArrayOfOBIS>
+    <DataProcessing>
+      <Sum>120</Sum>
+      <Count>2</Count>
+      <IntervalDateTime>2014-08-06T13:45:00</IntervalDateTime>
+      <Period>5</Period>
+      <ProfileDateTime>2014-08-06T13:45:00</ProfileDateTime>
+      <ProfilePeriod>15</ProfilePeriod>
+    </DataProcessing>
+  </DLMSSite>
+  <DLMSSite>
+    <Name>Sample Site 2 Replace Host Addres 4.3.2.1 with the real one</Name>
+    <Description />
+    <Device Type="ZXF" Protocol="DLMS" Manufacturer="LGZ">
+      <Host>4.3.2.1</Host>
+      <Port>4059</Port>
+      <Authentication>
+        <type>None</type>
+        <password />
+      </Authentication>
+    </Device>
+    <ArrayOfOBIS>
+      <DataObjects>
+        <ActivePower>1.0.16.7.0.255</ActivePower>
+      </DataObjects>
+      <GenericProfileObjects>
+        <LoadProfile>1.0.99.1.0.255</LoadProfile>
+      </GenericProfileObjects>
+    </ArrayOfOBIS>
+    <DataProcessing>
+      <Sum>60</Sum>
+      <Count>1</Count>
+      <IntervalDateTime>2014-08-06T13:45:00</IntervalDateTime>
+      <Period>5</Period>
+      <ProfileDateTime>2014-08-06T13:45:00</ProfileDateTime>
+      <ProfilePeriod>15</ProfilePeriod>
+    </DataProcessing>
+  </DLMSSite>
+</ArrayOfDLMSSite>

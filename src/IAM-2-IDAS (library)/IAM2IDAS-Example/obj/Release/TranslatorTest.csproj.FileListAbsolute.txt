@@ -1,0 +1,19 @@
+C:\Users\Giorgio\Documents\Visual Studio 2013\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\TranslatorTest.exe.config
+C:\Users\Giorgio\Documents\Visual Studio 2013\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\TranslatorTest.exe
+C:\Users\Giorgio\Documents\Visual Studio 2013\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\TranslatorTest.pdb
+C:\Users\Giorgio\Documents\Visual Studio 2013\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\FINESCEMessageTranslator.dll
+C:\Users\Giorgio\Documents\Visual Studio 2013\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\FINESCEMessageTranslator.pdb
+C:\Users\Giorgio\Documents\Visual Studio 2013\Projects\FINESCEMessageTranslator\TranslatorTest\obj\Release\TranslatorTest.exe
+C:\Users\Giorgio\Documents\Visual Studio 2013\Projects\FINESCEMessageTranslator\TranslatorTest\obj\Release\TranslatorTest.pdb
+C:\Users\Giorgio\Google Drive\Visual Studio 2013\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\TranslatorTest.exe.config
+C:\Users\Giorgio\Google Drive\Visual Studio 2013\Projects\FINESCEMessageTranslator\TranslatorTest\obj\Release\TranslatorTest.exe
+C:\Users\Giorgio\Google Drive\Visual Studio 2013\Projects\FINESCEMessageTranslator\TranslatorTest\obj\Release\TranslatorTest.pdb
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\test\sensorRegistration.xml
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\TranslatorTest.exe.config
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\TranslatorTest.exe
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\TranslatorTest.pdb
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\obj\Release\TranslatorTest.csprojResolveAssemblyReference.cache
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\obj\Release\TranslatorTest.exe
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\obj\Release\TranslatorTest.pdb
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\IAM2IDAS.dll
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\IAM2IDAS.pdb

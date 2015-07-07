@@ -1,0 +1,34 @@
+﻿Installazione dell'assembly 'C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.exe' in corso...
+I parametri interessati sono:
+   logtoconsole = 
+   logfile = C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.InstallLog
+   assemblypath = C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.exe
+Installazione del servizio My Service Name in corso...
+Installazione di My Service Name completata.
+È in corso la creazione dell'origine di EventLog My Service Name nel log Application...
+Commit dell'assembly 'C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.exe' in corso...
+I parametri interessati sono:
+   logtoconsole = 
+   logfile = C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.InstallLog
+   assemblypath = C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.exe
+Disinstallazione dell'assembly 'C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.exe' in corso...
+I parametri interessati sono:
+   logtoconsole = 
+   logfile = C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.InstallLog
+   assemblypath = C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.exe
+Rimozione dell'origine di EventLog My Service Name.
+È in corso la rimozione del servizio My Service Name dal sistema...
+Rimozione del servizio My Service Name dal sistema completata.
+Installazione dell'assembly 'C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.exe' in corso...
+I parametri interessati sono:
+   logtoconsole = 
+   logfile = C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.InstallLog
+   assemblypath = C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.exe
+Installazione del servizio IAMReader in corso...
+Installazione di IAMReader completata.
+È in corso la creazione dell'origine di EventLog IAMReader nel log Application...
+Commit dell'assembly 'C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.exe' in corso...
+I parametri interessati sono:
+   logtoconsole = 
+   logfile = C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.InstallLog
+   assemblypath = C:\Users\Gianluca Zanetto\Documents\Visual Studio 2010\Projects\IAMReader\IAMReader\bin\Debug\IAMReader.exe

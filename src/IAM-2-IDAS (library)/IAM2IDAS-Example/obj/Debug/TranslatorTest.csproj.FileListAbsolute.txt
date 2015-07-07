@@ -1,0 +1,9 @@
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Debug\TranslatorTest.exe.config
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Debug\test\sensorRegistration.xml
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Debug\TranslatorTest.exe
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Debug\TranslatorTest.pdb
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Debug\FINESCEMessageTranslator.dll
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Debug\FINESCEMessageTranslator.pdb
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\obj\Debug\TranslatorTest.csprojResolveAssemblyReference.cache
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\obj\Debug\TranslatorTest.exe
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\obj\Debug\TranslatorTest.pdb

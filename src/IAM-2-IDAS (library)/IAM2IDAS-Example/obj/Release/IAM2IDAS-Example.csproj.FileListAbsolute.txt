@@ -1,0 +1,7 @@
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\TranslatorTest.exe.config
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\TranslatorTest.exe
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\TranslatorTest.pdb
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\IAM2IDAS.dll
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\bin\Release\IAM2IDAS.pdb
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\obj\Release\TranslatorTest.exe
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\TranslatorTest\obj\Release\TranslatorTest.pdb

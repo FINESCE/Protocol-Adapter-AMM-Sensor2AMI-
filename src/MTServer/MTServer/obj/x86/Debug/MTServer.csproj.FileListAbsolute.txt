@@ -1,0 +1,5 @@
+c:\documents and settings\d017169\documenti\visual studio 2010\Projects\MTServer\MTServer\bin\Debug\MTServer.exe
+c:\documents and settings\d017169\documenti\visual studio 2010\Projects\MTServer\MTServer\bin\Debug\MTServer.pdb
+c:\documents and settings\d017169\documenti\visual studio 2010\Projects\MTServer\MTServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\d017169\documenti\visual studio 2010\Projects\MTServer\MTServer\obj\x86\Debug\MTServer.exe
+c:\documents and settings\d017169\documenti\visual studio 2010\Projects\MTServer\MTServer\obj\x86\Debug\MTServer.pdb

@@ -1,0 +1,5 @@
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\bin\Release\test\sensorRegistration.xml
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\bin\Release\IAM2IDAS.dll
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\bin\Release\IAM2IDAS.pdb
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\obj\Release\IAM2IDAS.dll
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\obj\Release\IAM2IDAS.pdb

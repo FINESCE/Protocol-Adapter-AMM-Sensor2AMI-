@@ -1,0 +1,10 @@
+c:\users\giorgio\documents\visual studio 2013\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\bin\Release\FINESCEMessageTranslator.dll
+c:\users\giorgio\documents\visual studio 2013\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\bin\Release\FINESCEMessageTranslator.pdb
+c:\users\giorgio\documents\visual studio 2013\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\obj\Release\FINESCEMessageTranslator.dll
+c:\users\giorgio\documents\visual studio 2013\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\obj\Release\FINESCEMessageTranslator.pdb
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\obj\Release\FINESCEMessageTranslator.csprojResolveAssemblyReference.cache
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\bin\Release\test\sensorRegistration.xml
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\bin\Release\FINESCEMessageTranslator.dll
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\bin\Release\FINESCEMessageTranslator.pdb
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\obj\Release\FINESCEMessageTranslator.dll
+E:\VisualStudio2013_ws\Projects\FINESCEMessageTranslator\FINESCEMessageTranslator\obj\Release\FINESCEMessageTranslator.pdb
